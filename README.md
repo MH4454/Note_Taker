@@ -11,8 +11,14 @@
 ### Installation:
 In order to install the necessary dependencies, open the console and run the following:
 ```npm install```
-### Usage:
-clone it ;D
+### Repo Usage:
+<ol>
+<li>Fork or Clone/li>
+<li>Run integrated terminal on ```server.js```</li>
+<li>npm start</li>
+<li>Go to browser localhost/li>
+<li> Enjoy! </li>    
+</ol>
 ### License:
 This project is licensed under:
 MIT
