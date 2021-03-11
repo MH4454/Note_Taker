@@ -17,7 +17,7 @@ Deployed site: [Note Taker](https://note-taker-4454.herokuapp.com/notes.html)
 * [Questions](#questions)
 
 ### Demo:
-![picture](images\notetakerdemo.gif)
+![picture](images/notetakerdemo.gif)
 
 ### Installation:
 In order to install the necessary dependencies, open the console and run the following:
